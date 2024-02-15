@@ -1,9 +1,12 @@
-## こんにちは！(Hi!)👋 
-minfaox3のプロフィールページです。Here is minfaox3's profile page.  
-個人的に作ったものをいろいろ載せてます。  
+minfaox3のプロフィールページです。  
+Here is minfaox3's profile page.  
 
 ## ホームページ(Homepage)
 https://minfaox3.net/
+
+## 最近のチーム開発(Works recently developed with the team)
+[Hack U 東京高専 2022-2023](https://hacku.yahoo.co.jp/nittc2022/)
+* https://github.com/MeatBunDisplay/Server
 
 ## 受賞歴(Awards received)
 ### 2023
