@@ -4,6 +4,9 @@ Here is minfaox3's profile page.
 ## ホームページ(Homepage)
 https://minfaox3.net/
 
+## メール(e-mail)
+spdlci30[a]gmail.com
+
 ## 最近のチーム開発(Works recently developed with the team)
 [Hack U 東京高専 2022-2023](https://hacku.yahoo.co.jp/nittc2022/)
 * https://github.com/MeatBunDisplay/Server
