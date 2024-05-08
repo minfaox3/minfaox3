@@ -4,7 +4,10 @@ Here is minfaox3's profile page.
 ## ホームページ(Homepage)
 https://minfaox3.net/
 
-## メール(e-mail)
+### プロフィール(About)
+https://minfaox3.net/about
+
+### メール(e-mail)
 contact[a]minfaox3.net
 
 ## 最近の取り組み(Recent works)
