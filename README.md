@@ -7,6 +7,9 @@ https://minfaox3.net/
 ### プロフィール(About)
 https://minfaox3.net/about
 
+### 特設
+https://concepts.minfaox3.net/
+
 ### メール(e-mail)
 contact[a]minfaox3.net
 
