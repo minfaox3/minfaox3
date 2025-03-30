@@ -14,7 +14,7 @@ https://concepts.minfaox3.net/
 contact[a]minfaox3.net
 
 ## 最近の取り組み(Recent works)
-* [vrc-discord-bot](https://github.com/minfaox3/vrc-discord-bot)
+* カメラとレンダーテクスチャを利用したジオメトリシェーダでのパーティクル生成
 
 ## 統計(Stats)
 ![](https://komarev.com/ghpvc/?username=minfaox3&color=brightgreen) ![GitHub-Profile-Summary-Cards](https://github.com/minfaox3/minfaox3/workflows/GitHub-Profile-Summary-Cards/badge.svg)
